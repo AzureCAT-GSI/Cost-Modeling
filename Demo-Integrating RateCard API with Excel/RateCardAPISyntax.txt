@@ -1,0 +1,1 @@
+https://management.azure.com/subscriptions/{XXXXXX-Subscriberid-}/providers/Microsoft.Commerce/RateCard?api-version=2015-06-01-preview&$filter=OfferDurableId eq 'MS-AZR-0121p' and Currency eq 'USD' and Locale eq 'en-US' and RegionInfo eq 'US'
