@@ -17,6 +17,8 @@ This guide provides a step-by-step guide on how to use the Azure Ratecard API to
 * [Power Shell Code](./ConvertRateCardAPIToFormatedFile.ps1)
 * [Configured Excel](./AzureRateCardtoBoMimplementation.xlsm?raw=1)
 * [Demo Script - Word Format](./AzureRateCardAPI-demoscript.docx?raw=1)
+* [Pre-Requisites Video](https://azurecatgsicontent.blob.core.windows.net/cost-modeling/Pre-requisites.mp4)
+* [Demo Video](https://azurecatgsicontent.blob.core.windows.net/cost-modeling/CostModelling.mp4)
 
 ## Setup
 

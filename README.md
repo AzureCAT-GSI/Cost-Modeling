@@ -6,7 +6,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 
 ## Demos
-1. Integrating RateCard API with Excel [[Demo script](./Demo-Integrating%20RateCard%20API%20with%20Excel/readme.md)] [[Video](https://gsiazurecoecontent.blob.core.windows.net/Cost-Modelling/API-Excel-Integration-Demo.mp4)]
+1. Integrating RateCard API with Excel [[Demo script](./Demo-Integrating%20RateCard%20API%20with%20Excel/readme.md)] [[Demo Video](https://azurecatgsicontent.blob.core.windows.net/cost-modeling/CostModelling.mp4)] [[Pre-Requisites Video](https://azurecatgsicontent.blob.core.windows.net/cost-modeling/Pre-requisites.mp4)]
 
 
 ## Covered Azure Services
