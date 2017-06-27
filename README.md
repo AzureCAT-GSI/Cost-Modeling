@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Cost Modeling
 This session will discuss the financial opportunities for cloud-oriented partners and how the cloud can improve partner business models. Understanding the Microsoft Azure platform and how to estimate costs of solutions will pay off as more customers are driving to reduce their datacenter footprint and move strategic workloads to a cloud platform.  This session will discuss how to have a TCO discussion with customers, will highlight how Azure pricing works, and will demonstrate the guarantees in place that make Microsoft Azure the cloud platform of choice.
 ## Presentation
